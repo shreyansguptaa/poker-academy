@@ -1,0 +1,7277 @@
+[
+  {
+    "id": "dwan-ivey-2009",
+    "source": "phh-dataset / Full Tilt Million Dollar Cash Game",
+    "event": "Tom Dwan vs Phil Ivey, 2009 (televised million-dollar pot)",
+    "stakes": {
+      "sb": 1000,
+      "bb": 2000
+    },
+    "buttonSeat": 3,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Phil Ivey",
+        "stack": 1125600,
+        "hole": [
+          "Ac",
+          "2d"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Patrik Antonius",
+        "stack": 2000000,
+        "hole": []
+      },
+      {
+        "seat": 3,
+        "name": "Tom Dwan",
+        "stack": 553500,
+        "hole": [
+          "7h",
+          "6h"
+        ]
+      }
+    ],
+    "board": [
+      "Jc",
+      "3d",
+      "5c",
+      "4h",
+      "Jh"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Phil Ivey",
+        "type": "post",
+        "amount": 500
+      },
+      {
+        "street": "preflop",
+        "player": "Patrik Antonius",
+        "type": "post",
+        "amount": 500
+      },
+      {
+        "street": "preflop",
+        "player": "Tom Dwan",
+        "type": "post",
+        "amount": 500
+      },
+      {
+        "street": "preflop",
+        "player": "Phil Ivey",
+        "type": "post",
+        "amount": 1000
+      },
+      {
+        "street": "preflop",
+        "player": "Patrik Antonius",
+        "type": "post",
+        "amount": 2000
+      },
+      {
+        "street": "preflop",
+        "player": "Tom Dwan",
+        "type": "raise",
+        "amount": 7000
+      },
+      {
+        "street": "preflop",
+        "player": "Phil Ivey",
+        "type": "raise",
+        "amount": 23000
+      },
+      {
+        "street": "preflop",
+        "player": "Patrik Antonius",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Tom Dwan",
+        "type": "call",
+        "amount": 16000
+      },
+      {
+        "street": "flop",
+        "player": "Phil Ivey",
+        "type": "bet",
+        "amount": 35000
+      },
+      {
+        "street": "flop",
+        "player": "Tom Dwan",
+        "type": "call",
+        "amount": 35000
+      },
+      {
+        "street": "turn",
+        "player": "Phil Ivey",
+        "type": "bet",
+        "amount": 90000
+      },
+      {
+        "street": "turn",
+        "player": "Tom Dwan",
+        "type": "raise",
+        "amount": 232600
+      },
+      {
+        "street": "turn",
+        "player": "Phil Ivey",
+        "type": "raise",
+        "amount": 1067100
+      },
+      {
+        "street": "turn",
+        "player": "Tom Dwan",
+        "type": "call",
+        "amount": 834500
+      }
+    ],
+    "hero": "Tom Dwan"
+  },
+  {
+    "id": "pluribus-40000",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "5s",
+          "Qd"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Jh",
+          "9d"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Kd",
+          "Ah"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Qc",
+          "9h"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Ts",
+          "4d"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "9s",
+          "6s"
+        ]
+      }
+    ],
+    "board": [
+      "9c",
+      "3s",
+      "7c",
+      "5c"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "raise",
+        "amount": 225
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "call",
+        "amount": 125
+      },
+      {
+        "street": "flop",
+        "player": "MrBrown",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrBrown",
+        "type": "bet",
+        "amount": 500
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "fold"
+      }
+    ],
+    "hero": "MrBrown"
+  },
+  {
+    "id": "pluribus-40003",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "5d",
+          "5h"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "9s",
+          "7d"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Ad",
+          "8c"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "6s",
+          "6h"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Jd",
+          "2h"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Th",
+          "7s"
+        ]
+      }
+    ],
+    "board": [
+      "Td",
+      "As",
+      "Qd",
+      "Kh",
+      "Ah"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "raise",
+        "amount": 200
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "raise",
+        "amount": 850
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "call",
+        "amount": 650
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Bill",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "Bill",
+        "type": "bet",
+        "amount": 2700
+      },
+      {
+        "street": "river",
+        "player": "Eddie",
+        "type": "fold"
+      }
+    ],
+    "hero": "Bill"
+  },
+  {
+    "id": "pluribus-40005",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Td",
+          "5h"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Qd",
+          "Ks"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "4h",
+          "Ac"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "6c",
+          "6s"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Tc",
+          "Js"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "4s",
+          "3h"
+        ]
+      }
+    ],
+    "board": [
+      "2c",
+      "7h",
+      "2s",
+      "5s",
+      "Ad"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "raise",
+        "amount": 225
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "call",
+        "amount": 125
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "bet",
+        "amount": 200
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "call",
+        "amount": 200
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "MrBlue",
+        "type": "check"
+      }
+    ],
+    "hero": "Eddie"
+  },
+  {
+    "id": "pluribus-40006",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "4c",
+          "Kc"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "5s",
+          "Jc"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Ah",
+          "9c"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Ts",
+          "6s"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "8h",
+          "Ad"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "8c",
+          "6h"
+        ]
+      }
+    ],
+    "board": [
+      "7d",
+      "5c",
+      "9s",
+      "9h",
+      "Qh"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "call",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrBrown",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrBrown",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "MrBrown",
+        "type": "bet",
+        "amount": 100
+      },
+      {
+        "street": "river",
+        "player": "Eddie",
+        "type": "fold"
+      }
+    ],
+    "hero": "Eddie"
+  },
+  {
+    "id": "pluribus-40007",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Kd",
+          "6d"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "5s",
+          "Qc"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Kh",
+          "4s"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "8d",
+          "4c"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "6h",
+          "Ks"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Jc",
+          "As"
+        ]
+      }
+    ],
+    "board": [
+      "7d",
+      "Jd",
+      "Js"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "raise",
+        "amount": 222
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "call",
+        "amount": 122
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "bet",
+        "amount": 150
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "fold"
+      }
+    ],
+    "hero": "Eddie"
+  },
+  {
+    "id": "pluribus-40008",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "4d",
+          "Jd"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "8s",
+          "7h"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Ts",
+          "4s"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Js",
+          "4c"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "2h",
+          "2s"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "As",
+          "6h"
+        ]
+      }
+    ],
+    "board": [
+      "3c",
+      "Ad",
+      "Kh"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "raise",
+        "amount": 200
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "call",
+        "amount": 100
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "bet",
+        "amount": 405
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "fold"
+      }
+    ],
+    "hero": "Eddie"
+  },
+  {
+    "id": "pluribus-40009",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Js",
+          "Th"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Ts",
+          "7h"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Kc",
+          "Jd"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "9s",
+          "5h"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "7c",
+          "9d"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Jh",
+          "Qd"
+        ]
+      }
+    ],
+    "board": [
+      "2s",
+      "As",
+      "3c",
+      "3s"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "raise",
+        "amount": 225
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "call",
+        "amount": 125
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "bet",
+        "amount": 375
+      },
+      {
+        "street": "turn",
+        "player": "MrPink",
+        "type": "fold"
+      }
+    ],
+    "hero": "MrBlue"
+  },
+  {
+    "id": "pluribus-40011",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "2d",
+          "Td"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Kc",
+          "8h"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "4c",
+          "3h"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "8d",
+          "9h"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "5h",
+          "As"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "8s",
+          "2h"
+        ]
+      }
+    ],
+    "board": [],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "call",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "raise",
+        "amount": 300
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      }
+    ],
+    "hero": "Pluribus"
+  },
+  {
+    "id": "pluribus-40014",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "7h",
+          "3c"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Ac",
+          "3h"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "9d",
+          "5h"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "8c",
+          "As"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "2c",
+          "2h"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Kc",
+          "Qs"
+        ]
+      }
+    ],
+    "board": [
+      "Th",
+      "5c",
+      "9s"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "raise",
+        "amount": 200
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "call",
+        "amount": 200
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrBrown",
+        "type": "bet",
+        "amount": 412
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "fold"
+      }
+    ],
+    "hero": "MrBrown"
+  },
+  {
+    "id": "pluribus-40015",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "6h",
+          "Kc"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "3s",
+          "3d"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "7c",
+          "6c"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Jd",
+          "2d"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "9c",
+          "9h"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "4s",
+          "Qc"
+        ]
+      }
+    ],
+    "board": [
+      "6s",
+      "5h",
+      "8d",
+      "2c",
+      "Jc"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "raise",
+        "amount": 350
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "call",
+        "amount": 350
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "call",
+        "amount": 250
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrBrown",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrBrown",
+        "type": "bet",
+        "amount": 825
+      },
+      {
+        "street": "turn",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "turn",
+        "player": "Pluribus",
+        "type": "raise",
+        "amount": 2200
+      },
+      {
+        "street": "turn",
+        "player": "MrBrown",
+        "type": "call",
+        "amount": 1375
+      },
+      {
+        "street": "river",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "MrBrown",
+        "type": "check"
+      }
+    ],
+    "hero": "MrBrown"
+  },
+  {
+    "id": "pluribus-40016",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "2s",
+          "Tc"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Qs",
+          "Ad"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "7h",
+          "3h"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "5d",
+          "Qd"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "4c",
+          "2h"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Kd",
+          "Qc"
+        ]
+      }
+    ],
+    "board": [
+      "6d",
+      "3d",
+      "8h",
+      "3c",
+      "8s"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "raise",
+        "amount": 287
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "raise",
+        "amount": 1223
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "call",
+        "amount": 936
+      },
+      {
+        "street": "flop",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Bill",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "Bill",
+        "type": "check"
+      }
+    ],
+    "hero": "Bill"
+  },
+  {
+    "id": "pluribus-40018",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Ac",
+          "9h"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Tc",
+          "9c"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Th",
+          "Qc"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "6h",
+          "Td"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Kd",
+          "Jc"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "6d",
+          "Qh"
+        ]
+      }
+    ],
+    "board": [
+      "4d",
+      "4h",
+      "8h",
+      "Qd"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "raise",
+        "amount": 210
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "call",
+        "amount": 110
+      },
+      {
+        "street": "flop",
+        "player": "MrBrown",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrBrown",
+        "type": "bet",
+        "amount": 352
+      },
+      {
+        "street": "turn",
+        "player": "MrPink",
+        "type": "fold"
+      }
+    ],
+    "hero": "MrBrown"
+  },
+  {
+    "id": "pluribus-40020",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "7c",
+          "7s"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "8h",
+          "Jd"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "5d",
+          "Qs"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "5s",
+          "2d"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "7h",
+          "Td"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "2h",
+          "7d"
+        ]
+      }
+    ],
+    "board": [
+      "Tc",
+      "8d",
+      "6s",
+      "4s",
+      "5c"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "raise",
+        "amount": 300
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "call",
+        "amount": 200
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Bill",
+        "type": "bet",
+        "amount": 300
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "call",
+        "amount": 300
+      },
+      {
+        "street": "river",
+        "player": "MrBlue",
+        "type": "bet",
+        "amount": 712
+      },
+      {
+        "street": "river",
+        "player": "Bill",
+        "type": "fold"
+      }
+    ],
+    "hero": "MrBlue"
+  },
+  {
+    "id": "pluribus-40021",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Tc",
+          "8c"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Kh",
+          "Js"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "7h",
+          "Ks"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "9s",
+          "Jc"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "5d",
+          "Qh"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "4d",
+          "2s"
+        ]
+      }
+    ],
+    "board": [
+      "7s",
+      "Td",
+      "2c"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "raise",
+        "amount": 300
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "call",
+        "amount": 200
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "bet",
+        "amount": 450
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "fold"
+      }
+    ],
+    "hero": "Bill"
+  },
+  {
+    "id": "pluribus-40025",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "8s",
+          "9s"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "6s",
+          "9h"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Ad",
+          "Tc"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Qc",
+          "Jh"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "5c",
+          "Kh"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Ts",
+          "Ah"
+        ]
+      }
+    ],
+    "board": [
+      "8h",
+      "Qd",
+      "2d",
+      "7d"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "raise",
+        "amount": 225
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "call",
+        "amount": 175
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "flop",
+        "player": "MrBrown",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "bet",
+        "amount": 275
+      },
+      {
+        "street": "flop",
+        "player": "MrBrown",
+        "type": "call",
+        "amount": 275
+      },
+      {
+        "street": "turn",
+        "player": "MrBrown",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Bill",
+        "type": "bet",
+        "amount": 825
+      },
+      {
+        "street": "turn",
+        "player": "MrBrown",
+        "type": "fold"
+      }
+    ],
+    "hero": "Bill"
+  },
+  {
+    "id": "pluribus-40026",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "3s",
+          "4s"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "7s",
+          "Ac"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "9c",
+          "5c"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "9s",
+          "As"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "8d",
+          "Ks"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "4h",
+          "9h"
+        ]
+      }
+    ],
+    "board": [
+      "Kd",
+      "6c",
+      "Jc"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "raise",
+        "amount": 200
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "call",
+        "amount": 150
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "call",
+        "amount": 100
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Pluribus",
+        "type": "bet",
+        "amount": 300
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "fold"
+      }
+    ],
+    "hero": "Pluribus"
+  },
+  {
+    "id": "pluribus-40027",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "8d",
+          "Jh"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Ts",
+          "3s"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "9d",
+          "2d"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "5d",
+          "Kc"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "4d",
+          "Tc"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "4s",
+          "Jc"
+        ]
+      }
+    ],
+    "board": [
+      "6c",
+      "2c",
+      "Kd"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "raise",
+        "amount": 300
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "call",
+        "amount": 200
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "bet",
+        "amount": 300
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "fold"
+      }
+    ],
+    "hero": "Bill"
+  },
+  {
+    "id": "pluribus-40029",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Ks",
+          "8d"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Ah",
+          "4d"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "5h",
+          "Jh"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Qd",
+          "Qc"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Kh",
+          "Tc"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Ts",
+          "6s"
+        ]
+      }
+    ],
+    "board": [
+      "6d",
+      "7c",
+      "Js",
+      "9h"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "raise",
+        "amount": 225
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "call",
+        "amount": 125
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "bet",
+        "amount": 375
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "fold"
+      }
+    ],
+    "hero": "MrBlue"
+  },
+  {
+    "id": "pluribus-40031",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "7c",
+          "7s"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Th",
+          "Td"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "4h",
+          "3s"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "4s",
+          "5h"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Ad",
+          "Tc"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Kc",
+          "Ah"
+        ]
+      }
+    ],
+    "board": [
+      "2d",
+      "9d",
+      "6d"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "raise",
+        "amount": 225
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "raise",
+        "amount": 800
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "raise",
+        "amount": 1925
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "call",
+        "amount": 1125
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "bet",
+        "amount": 1580
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "fold"
+      }
+    ],
+    "hero": "MrBlue"
+  },
+  {
+    "id": "pluribus-40032",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Jh",
+          "3s"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "3d",
+          "9d"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "9c",
+          "8s"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "8h",
+          "5c"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Kd",
+          "Tc"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Ts",
+          "7c"
+        ]
+      }
+    ],
+    "board": [
+      "9h",
+      "8d",
+      "6d",
+      "Qc",
+      "Ks"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "raise",
+        "amount": 200
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "call",
+        "amount": 100
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Bill",
+        "type": "bet",
+        "amount": 150
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "raise",
+        "amount": 650
+      },
+      {
+        "street": "turn",
+        "player": "Bill",
+        "type": "call",
+        "amount": 500
+      },
+      {
+        "street": "river",
+        "player": "Bill",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "Eddie",
+        "type": "check"
+      }
+    ],
+    "hero": "Bill"
+  },
+  {
+    "id": "pluribus-40033",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "7s",
+          "9s"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Ac",
+          "6d"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "6h",
+          "5c"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Td",
+          "Ad"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "8c",
+          "5h"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "4s",
+          "7d"
+        ]
+      }
+    ],
+    "board": [
+      "3s",
+      "5s",
+      "Jd"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "raise",
+        "amount": 200
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "call",
+        "amount": 100
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "bet",
+        "amount": 135
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "fold"
+      }
+    ],
+    "hero": "Eddie"
+  },
+  {
+    "id": "pluribus-40034",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Th",
+          "Kh"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Qc",
+          "9h"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Ad",
+          "Ah"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "4d",
+          "7d"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "2d",
+          "Td"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "9d",
+          "Kc"
+        ]
+      }
+    ],
+    "board": [
+      "Js",
+      "4s",
+      "Qd",
+      "4h"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "raise",
+        "amount": 200
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "call",
+        "amount": 150
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "bet",
+        "amount": 350
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "call",
+        "amount": 350
+      },
+      {
+        "street": "turn",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "bet",
+        "amount": 1200
+      },
+      {
+        "street": "turn",
+        "player": "MrPink",
+        "type": "fold"
+      }
+    ],
+    "hero": "Eddie"
+  },
+  {
+    "id": "pluribus-40036",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Ac",
+          "Jd"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Jc",
+          "Th"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "7d",
+          "2s"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "3h",
+          "Ks"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "8h",
+          "4s"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "3s",
+          "3c"
+        ]
+      }
+    ],
+    "board": [
+      "6d",
+      "5d",
+      "6s",
+      "Kd",
+      "9s"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "raise",
+        "amount": 225
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "raise",
+        "amount": 1100
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "call",
+        "amount": 875
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "bet",
+        "amount": 690
+      },
+      {
+        "street": "flop",
+        "player": "Pluribus",
+        "type": "call",
+        "amount": 690
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "bet",
+        "amount": 1230
+      },
+      {
+        "street": "turn",
+        "player": "Pluribus",
+        "type": "call",
+        "amount": 1230
+      },
+      {
+        "street": "river",
+        "player": "Eddie",
+        "type": "bet",
+        "amount": 6980
+      },
+      {
+        "street": "river",
+        "player": "Pluribus",
+        "type": "call",
+        "amount": 6980
+      }
+    ],
+    "hero": "Pluribus"
+  },
+  {
+    "id": "pluribus-40038",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Jd",
+          "8d"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "7h",
+          "9d"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "8s",
+          "9h"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Jc",
+          "9s"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "4h",
+          "7s"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Qs",
+          "4s"
+        ]
+      }
+    ],
+    "board": [
+      "2h",
+      "Ac",
+      "Jh",
+      "5h"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "raise",
+        "amount": 250
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "call",
+        "amount": 200
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "call",
+        "amount": 150
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrBrown",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Bill",
+        "type": "bet",
+        "amount": 562
+      },
+      {
+        "street": "turn",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "fold"
+      }
+    ],
+    "hero": "Bill"
+  },
+  {
+    "id": "pluribus-40040",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "8s",
+          "Td"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "4c",
+          "8d"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Js",
+          "5h"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Ac",
+          "4s"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "6h",
+          "3c"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "2d",
+          "Kc"
+        ]
+      }
+    ],
+    "board": [
+      "Qh",
+      "Ts",
+      "8h",
+      "Ad"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "call",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "bet",
+        "amount": 100
+      },
+      {
+        "street": "flop",
+        "player": "Pluribus",
+        "type": "call",
+        "amount": 100
+      },
+      {
+        "street": "turn",
+        "player": "MrPink",
+        "type": "bet",
+        "amount": 400
+      },
+      {
+        "street": "turn",
+        "player": "Pluribus",
+        "type": "fold"
+      }
+    ],
+    "hero": "MrPink"
+  },
+  {
+    "id": "pluribus-40041",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "6s",
+          "Ad"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Jd",
+          "9c"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "7s",
+          "4d"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "5h",
+          "6d"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "9d",
+          "3h"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "As",
+          "9h"
+        ]
+      }
+    ],
+    "board": [
+      "5s",
+      "Qd",
+      "5d",
+      "Ah"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "raise",
+        "amount": 250
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "call",
+        "amount": 150
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrPink",
+        "type": "bet",
+        "amount": 135
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "fold"
+      }
+    ],
+    "hero": "MrPink"
+  },
+  {
+    "id": "pluribus-40042",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "4h",
+          "8c"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Ad",
+          "3h"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Ac",
+          "Jc"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "4s",
+          "Qs"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Jd",
+          "7d"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "4c",
+          "8s"
+        ]
+      }
+    ],
+    "board": [
+      "Ts",
+      "6h",
+      "Qd"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "raise",
+        "amount": 225
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "call",
+        "amount": 125
+      },
+      {
+        "street": "flop",
+        "player": "MrBrown",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "bet",
+        "amount": 250
+      },
+      {
+        "street": "flop",
+        "player": "MrBrown",
+        "type": "fold"
+      }
+    ],
+    "hero": "MrBlue"
+  },
+  {
+    "id": "pluribus-40043",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "2c",
+          "Qd"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "8c",
+          "Jh"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "9h",
+          "8s"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Qc",
+          "9c"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "4h",
+          "8d"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Ah",
+          "6c"
+        ]
+      }
+    ],
+    "board": [
+      "5h",
+      "7s",
+      "4d",
+      "Ac",
+      "5d"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "raise",
+        "amount": 210
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "call",
+        "amount": 110
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "bet",
+        "amount": 235
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "call",
+        "amount": 235
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "MrBlue",
+        "type": "bet",
+        "amount": 315
+      },
+      {
+        "street": "river",
+        "player": "MrPink",
+        "type": "fold"
+      }
+    ],
+    "hero": "MrBlue"
+  },
+  {
+    "id": "pluribus-40044",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Ks",
+          "5c"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "6c",
+          "Tc"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Jd",
+          "8d"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "8c",
+          "9d"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "3h",
+          "Td"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "7c",
+          "4d"
+        ]
+      }
+    ],
+    "board": [
+      "Ah",
+      "9h",
+      "5s",
+      "Jc",
+      "3c"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "call",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Bill",
+        "type": "bet",
+        "amount": 100
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "call",
+        "amount": 100
+      },
+      {
+        "street": "river",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "Bill",
+        "type": "bet",
+        "amount": 300
+      },
+      {
+        "street": "river",
+        "player": "MrBlue",
+        "type": "fold"
+      }
+    ],
+    "hero": "MrBlue"
+  },
+  {
+    "id": "pluribus-40046",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "3c",
+          "Ks"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Ah",
+          "6c"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Ad",
+          "Th"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Tc",
+          "Kh"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "7s",
+          "Js"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "As",
+          "7c"
+        ]
+      }
+    ],
+    "board": [
+      "Kd",
+      "4c",
+      "5c",
+      "2s",
+      "Jd"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "raise",
+        "amount": 225
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "call",
+        "amount": 125
+      },
+      {
+        "street": "flop",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "Pluribus",
+        "type": "bet",
+        "amount": 250
+      },
+      {
+        "street": "river",
+        "player": "MrBlue",
+        "type": "call",
+        "amount": 250
+      }
+    ],
+    "hero": "Pluribus"
+  },
+  {
+    "id": "pluribus-40048",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Kc",
+          "2c"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "5s",
+          "As"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "2s",
+          "9d"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "6c",
+          "Th"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Ks",
+          "4d"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Qh",
+          "7c"
+        ]
+      }
+    ],
+    "board": [
+      "Ts",
+      "Js",
+      "7h",
+      "Qc",
+      "Qd"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "call",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrBrown",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "bet",
+        "amount": 100
+      },
+      {
+        "street": "turn",
+        "player": "MrBrown",
+        "type": "call",
+        "amount": 100
+      },
+      {
+        "street": "river",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "MrBrown",
+        "type": "check"
+      }
+    ],
+    "hero": "Eddie"
+  },
+  {
+    "id": "pluribus-40049",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Tc",
+          "Jc"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "4d",
+          "8s"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "7h",
+          "Kc"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Th",
+          "5c"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Jh",
+          "Jd"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "6d",
+          "9s"
+        ]
+      }
+    ],
+    "board": [
+      "5s",
+      "7d",
+      "7c",
+      "Qs",
+      "Ts"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "raise",
+        "amount": 250
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "raise",
+        "amount": 800
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "call",
+        "amount": 550
+      },
+      {
+        "street": "flop",
+        "player": "MrBrown",
+        "type": "bet",
+        "amount": 550
+      },
+      {
+        "street": "flop",
+        "player": "Pluribus",
+        "type": "call",
+        "amount": 550
+      },
+      {
+        "street": "turn",
+        "player": "MrBrown",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "MrBrown",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "Pluribus",
+        "type": "bet",
+        "amount": 1400
+      },
+      {
+        "street": "river",
+        "player": "MrBrown",
+        "type": "call",
+        "amount": 1400
+      }
+    ],
+    "hero": "Pluribus"
+  },
+  {
+    "id": "pluribus-40050",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "5s",
+          "8d"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "6d",
+          "Td"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "9h",
+          "3s"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "3c",
+          "Ac"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "As",
+          "4s"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "5c",
+          "9c"
+        ]
+      }
+    ],
+    "board": [
+      "Tc",
+      "7c",
+      "Kc",
+      "Th",
+      "Kh"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "raise",
+        "amount": 250
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "call",
+        "amount": 250
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "call",
+        "amount": 150
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Bill",
+        "type": "bet",
+        "amount": 275
+      },
+      {
+        "street": "turn",
+        "player": "Pluribus",
+        "type": "call",
+        "amount": 275
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "river",
+        "player": "Bill",
+        "type": "bet",
+        "amount": 675
+      },
+      {
+        "street": "river",
+        "player": "Pluribus",
+        "type": "fold"
+      }
+    ],
+    "hero": "Bill"
+  },
+  {
+    "id": "pluribus-40051",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Ac",
+          "Th"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "9d",
+          "Ah"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "5h",
+          "8d"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Tc",
+          "4h"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "6h",
+          "Qd"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Js",
+          "9s"
+        ]
+      }
+    ],
+    "board": [
+      "3s",
+      "9c",
+      "Kd",
+      "2d",
+      "7h"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "raise",
+        "amount": 225
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "call",
+        "amount": 125
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "MrPink",
+        "type": "bet",
+        "amount": 350
+      },
+      {
+        "street": "river",
+        "player": "MrBlue",
+        "type": "call",
+        "amount": 350
+      }
+    ],
+    "hero": "MrPink"
+  },
+  {
+    "id": "pluribus-40052",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "As",
+          "8d"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "5s",
+          "6c"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "6s",
+          "Kd"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Ks",
+          "Th"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "3d",
+          "Qc"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Td",
+          "7h"
+        ]
+      }
+    ],
+    "board": [
+      "Jd",
+      "8s",
+      "9d",
+      "7s",
+      "5h"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "raise",
+        "amount": 300
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "call",
+        "amount": 200
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "Pluribus",
+        "type": "bet",
+        "amount": 450
+      },
+      {
+        "street": "river",
+        "player": "MrPink",
+        "type": "call",
+        "amount": 450
+      }
+    ],
+    "hero": "MrPink"
+  },
+  {
+    "id": "pluribus-40053",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "7c",
+          "3c"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Tc",
+          "Ad"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "5h",
+          "9h"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Qd",
+          "2s"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "4h",
+          "Kc"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Ks",
+          "8h"
+        ]
+      }
+    ],
+    "board": [
+      "3h",
+      "Td",
+      "8c",
+      "Ah",
+      "6d"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "raise",
+        "amount": 250
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "call",
+        "amount": 150
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "bet",
+        "amount": 750
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "call",
+        "amount": 750
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "Eddie",
+        "type": "bet",
+        "amount": 3500
+      },
+      {
+        "street": "river",
+        "player": "MrPink",
+        "type": "call",
+        "amount": 3500
+      }
+    ],
+    "hero": "Eddie"
+  },
+  {
+    "id": "pluribus-40054",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Ad",
+          "Qd"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Th",
+          "Js"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Tc",
+          "Qc"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "2h",
+          "9h"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Kh",
+          "4s"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Ah",
+          "3d"
+        ]
+      }
+    ],
+    "board": [
+      "5c",
+      "3s",
+      "Kd"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "raise",
+        "amount": 225
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "raise",
+        "amount": 1100
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "call",
+        "amount": 875
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "bet",
+        "amount": 1400
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "fold"
+      }
+    ],
+    "hero": "Eddie"
+  },
+  {
+    "id": "pluribus-40062",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "6h",
+          "5h"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "7h",
+          "Ks"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "8s",
+          "7c"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Kc",
+          "3s"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Qh",
+          "Qd"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "6d",
+          "2d"
+        ]
+      }
+    ],
+    "board": [
+      "Jc",
+      "Kh",
+      "3c",
+      "5s"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "raise",
+        "amount": 200
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "raise",
+        "amount": 925
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "call",
+        "amount": 725
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "bet",
+        "amount": 810
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "call",
+        "amount": 810
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "bet",
+        "amount": 2150
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "fold"
+      }
+    ],
+    "hero": "MrBlue"
+  },
+  {
+    "id": "pluribus-40063",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Kc",
+          "6s"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "9d",
+          "Qh"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "8c",
+          "3h"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "7d",
+          "Kd"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Qd",
+          "Ts"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "8h",
+          "2c"
+        ]
+      }
+    ],
+    "board": [
+      "6c",
+      "2h",
+      "Jc"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "raise",
+        "amount": 200
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "call",
+        "amount": 100
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "bet",
+        "amount": 135
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "fold"
+      }
+    ],
+    "hero": "Eddie"
+  },
+  {
+    "id": "pluribus-40066",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "6d",
+          "Th"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Qd",
+          "Kc"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "7s",
+          "Tc"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Kh",
+          "4h"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Js",
+          "Ad"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Qc",
+          "7c"
+        ]
+      }
+    ],
+    "board": [
+      "Ks",
+      "5d",
+      "3h"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "raise",
+        "amount": 210
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "raise",
+        "amount": 750
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "call",
+        "amount": 540
+      },
+      {
+        "street": "flop",
+        "player": "MrBrown",
+        "type": "bet",
+        "amount": 500
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "fold"
+      }
+    ],
+    "hero": "MrBrown"
+  },
+  {
+    "id": "pluribus-40067",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "2d",
+          "Ac"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Jh",
+          "Qs"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "6h",
+          "2h"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "3s",
+          "4d"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Qd",
+          "8c"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "5s",
+          "Ks"
+        ]
+      }
+    ],
+    "board": [
+      "2c",
+      "7s",
+      "2s",
+      "3c"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "raise",
+        "amount": 222
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "call",
+        "amount": 122
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "bet",
+        "amount": 150
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "call",
+        "amount": 150
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "bet",
+        "amount": 794
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "fold"
+      }
+    ],
+    "hero": "Eddie"
+  },
+  {
+    "id": "pluribus-40068",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "9h",
+          "9c"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Jh",
+          "Tc"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Jc",
+          "4d"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "2s",
+          "8h"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "8c",
+          "Ks"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "6c",
+          "6d"
+        ]
+      }
+    ],
+    "board": [
+      "2c",
+      "6h",
+      "7h",
+      "4c"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "raise",
+        "amount": 250
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "call",
+        "amount": 200
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "call",
+        "amount": 150
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrBrown",
+        "type": "bet",
+        "amount": 600
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "call",
+        "amount": 600
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrBrown",
+        "type": "bet",
+        "amount": 1462
+      },
+      {
+        "street": "turn",
+        "player": "MrBlue",
+        "type": "fold"
+      }
+    ],
+    "hero": "MrBrown"
+  },
+  {
+    "id": "pluribus-40069",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Qh",
+          "6d"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "2s",
+          "Ks"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Tc",
+          "8d"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Jh",
+          "As"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Qs",
+          "4h"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Ad",
+          "Td"
+        ]
+      }
+    ],
+    "board": [
+      "5s",
+      "Jc",
+      "7c"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "raise",
+        "amount": 200
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "call",
+        "amount": 200
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "call",
+        "amount": 100
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "bet",
+        "amount": 163
+      },
+      {
+        "street": "flop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "fold"
+      }
+    ],
+    "hero": "Eddie"
+  },
+  {
+    "id": "pluribus-40070",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "7c",
+          "9h"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "7s",
+          "7d"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "3c",
+          "2c"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Qh",
+          "Jc"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "6c",
+          "3h"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Kc",
+          "4h"
+        ]
+      }
+    ],
+    "board": [
+      "Ks",
+      "Js",
+      "6d",
+      "5c",
+      "Ad"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "raise",
+        "amount": 225
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "call",
+        "amount": 125
+      },
+      {
+        "street": "flop",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrBrown",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "MrBrown",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "MrBrown",
+        "type": "check"
+      }
+    ],
+    "hero": "Pluribus"
+  },
+  {
+    "id": "pluribus-40072",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "Qh",
+          "9h"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "4c",
+          "2h"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Ks",
+          "4d"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Jd",
+          "8d"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Ac",
+          "6h"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "6s",
+          "Ad"
+        ]
+      }
+    ],
+    "board": [
+      "Qc",
+      "9d",
+      "Td",
+      "Tc",
+      "7d"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "raise",
+        "amount": 225
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "call",
+        "amount": 175
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "bet",
+        "amount": 412
+      },
+      {
+        "street": "flop",
+        "player": "Eddie",
+        "type": "call",
+        "amount": 412
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "turn",
+        "player": "Bill",
+        "type": "bet",
+        "amount": 1374
+      },
+      {
+        "street": "turn",
+        "player": "Eddie",
+        "type": "call",
+        "amount": 1374
+      },
+      {
+        "street": "river",
+        "player": "Eddie",
+        "type": "check"
+      },
+      {
+        "street": "river",
+        "player": "Bill",
+        "type": "bet",
+        "amount": 7989
+      },
+      {
+        "street": "river",
+        "player": "Eddie",
+        "type": "fold"
+      }
+    ],
+    "hero": "Eddie"
+  },
+  {
+    "id": "pluribus-40073",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "Kh",
+          "Ad"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "3h",
+          "4c"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Kc",
+          "Qc"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "Qs",
+          "2c"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Tc",
+          "Jh"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "2h",
+          "8s"
+        ]
+      }
+    ],
+    "board": [
+      "2d",
+      "Qd",
+      "Ts",
+      "4d",
+      "6h"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "raise",
+        "amount": 225
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "raise",
+        "amount": 750
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "call",
+        "amount": 525
+      },
+      {
+        "street": "flop",
+        "player": "MrBrown",
+        "type": "bet",
+        "amount": 600
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "call",
+        "amount": 600
+      },
+      {
+        "street": "turn",
+        "player": "MrBrown",
+        "type": "bet",
+        "amount": 1800
+      },
+      {
+        "street": "turn",
+        "player": "Bill",
+        "type": "call",
+        "amount": 1800
+      },
+      {
+        "street": "river",
+        "player": "MrBrown",
+        "type": "bet",
+        "amount": 6850
+      },
+      {
+        "street": "river",
+        "player": "Bill",
+        "type": "fold"
+      }
+    ],
+    "hero": "MrBrown"
+  },
+  {
+    "id": "pluribus-40075",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "Th",
+          "8h"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "8c",
+          "Ac"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "5s",
+          "Td"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "8d",
+          "Qc"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "4s",
+          "2c"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "Kh",
+          "5d"
+        ]
+      }
+    ],
+    "board": [
+      "5c",
+      "7c",
+      "As"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "raise",
+        "amount": 300
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "raise",
+        "amount": 900
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "call",
+        "amount": 600
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "MrPink",
+        "type": "bet",
+        "amount": 550
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "fold"
+      }
+    ],
+    "hero": "Bill"
+  },
+  {
+    "id": "pluribus-40076",
+    "source": "Pluribus session pluribus_40.txt",
+    "event": "Pluribus vs humans (Brown & Sandholm, Science 2019)",
+    "stakes": {
+      "sb": 50,
+      "bb": 100
+    },
+    "buttonSeat": 6,
+    "players": [
+      {
+        "seat": 1,
+        "name": "MrPink",
+        "stack": 10000,
+        "hole": [
+          "8d",
+          "4h"
+        ]
+      },
+      {
+        "seat": 2,
+        "name": "Pluribus",
+        "stack": 10000,
+        "hole": [
+          "Ts",
+          "9d"
+        ]
+      },
+      {
+        "seat": 3,
+        "name": "Eddie",
+        "stack": 10000,
+        "hole": [
+          "3s",
+          "4s"
+        ]
+      },
+      {
+        "seat": 4,
+        "name": "MrBrown",
+        "stack": 10000,
+        "hole": [
+          "4c",
+          "7c"
+        ]
+      },
+      {
+        "seat": 5,
+        "name": "MrBlue",
+        "stack": 10000,
+        "hole": [
+          "6h",
+          "Jd"
+        ]
+      },
+      {
+        "seat": 6,
+        "name": "Bill",
+        "stack": 10000,
+        "hole": [
+          "7d",
+          "Qd"
+        ]
+      }
+    ],
+    "board": [
+      "6c",
+      "7h",
+      "Jc",
+      "Jh",
+      "3h"
+    ],
+    "actions": [
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "post",
+        "amount": 50
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "post",
+        "amount": 100
+      },
+      {
+        "street": "preflop",
+        "player": "Eddie",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBrown",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "MrBlue",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Bill",
+        "type": "raise",
+        "amount": 287
+      },
+      {
+        "street": "preflop",
+        "player": "MrPink",
+        "type": "fold"
+      },
+      {
+        "street": "preflop",
+        "player": "Pluribus",
+        "type": "call",
+        "amount": 187
+      },
+      {
+        "street": "flop",
+        "player": "Pluribus",
+        "type": "check"
+      },
+      {
+        "street": "flop",
+        "player": "Bill",
+        "type": "bet",
+        "amount": 312
+      },
+      {
+        "street": "flop",
+        "player": "Pluribus",
+        "type": "call",
+        "amount": 312
+      },
+      {
+        "street": "turn",
+        "player": "Pluribus",
+        "type": "bet",
+        "amount": 312
+      },
+      {
+        "street": "turn",
+        "player": "Bill",
+        "type": "call",
+        "amount": 312
+      },
+      {
+        "street": "river",
+        "player": "Pluribus",
+        "type": "bet",
+        "amount": 936
+      },
+      {
+        "street": "river",
+        "player": "Bill",
+        "type": "call",
+        "amount": 936
+      }
+    ],
+    "hero": "Pluribus"
+  }
+]
